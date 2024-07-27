@@ -29,5 +29,3 @@ WHERE LAT_N = (
 ```
 
 This query uses a subquery to find the maximum `LAT_N` less than 137.2345, and then fetches the corresponding `LONG_W`, rounding the result to four decimal places.
-
-If you need any more details or help, feel free to ask!
